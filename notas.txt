@@ -1,0 +1,48 @@
+NOTAS MIAS PARA NO PERDERME:
+
+----------------------------------------------------Diseño de diagrama de base de datos(Postgres).
+--> DBDIAGRAM, TRES TABLAS (cita, doctor y cliente)
+
+----------------------------------------------------Backend con Node.js/Express y buena estructura de código.
+--> BACKEND (solo un controlador de cita)
+
+----------------------------------------------------Uso de Sequelize como ORM.
+--> CON DOCKER ABRIRE UN POSTGRES Y CREARE LAS TABLAS CON MIGRATIONS
+
+----------------------------------------------------Documentación de la API con Swagger.
+--> ESTA IBA EN ROUTES!!!!!
+
+Requisitos Técnicos:
+
+El desarrollo debe seguir la metodología y las herramientas vistas en clase:
+
+Diseño de diagrama de base de datos(Postgres).
+
+Backend con Node.js/Express y buena estructura de código.
+
+Uso de Sequelize como ORM.
+
+Documentación de la API con Swagger.
+
+Diseño de pantallas en Figma.
+
+Frontend con React/Vite.
+
+Requisitos funcionales (obligatorios):
+
+Debe de iniciar con:
+
+Lista de citas + botón “Nueva cita”
+El flujo debe permitir seleccionar:
+
+Especialidad
+
+Doctor
+
+Fecha disponible
+
+Hora disponible
+
+Tipo de consulta (presencial / virtual)
+
+Motivo de consulta (opcional)
